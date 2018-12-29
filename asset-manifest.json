@@ -1,7 +1,16 @@
 {
-  "main.css": "static/css/main.4dadcaae.css",
-  "main.css.map": "static/css/main.4dadcaae.css.map",
-  "main.js": "static/js/main.526b3bfe.js",
-  "main.js.map": "static/js/main.526b3bfe.js.map",
-  "static/media/SEGA.woff": "static/media/SEGA.12a3db8b.woff"
+  "main.css": "/react-fetch/static/css/main.39e3b317.chunk.css",
+  "main.js": "/react-fetch/static/js/main.3ab85a9b.chunk.js",
+  "main.js.map": "/react-fetch/static/js/main.3ab85a9b.chunk.js.map",
+  "static/css/1.6b114bbb.chunk.css": "/react-fetch/static/css/1.6b114bbb.chunk.css",
+  "static/js/1.26a96394.chunk.js": "/react-fetch/static/js/1.26a96394.chunk.js",
+  "static/js/1.26a96394.chunk.js.map": "/react-fetch/static/js/1.26a96394.chunk.js.map",
+  "runtime~main.js": "/react-fetch/static/js/runtime~main.cfea8fef.js",
+  "runtime~main.js.map": "/react-fetch/static/js/runtime~main.cfea8fef.js.map",
+  "static/media/App.css": "/react-fetch/static/media/SEGA.12a3db8b.woff",
+  "static/css/main.39e3b317.chunk.css.map": "/react-fetch/static/css/main.39e3b317.chunk.css.map",
+  "static/css/1.6b114bbb.chunk.css.map": "/react-fetch/static/css/1.6b114bbb.chunk.css.map",
+  "index.html": "/react-fetch/index.html",
+  "precache-manifest.1babe0996649d601661633cd6b2e881d.js": "/react-fetch/precache-manifest.1babe0996649d601661633cd6b2e881d.js",
+  "service-worker.js": "/react-fetch/service-worker.js"
 }
